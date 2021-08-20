@@ -20,6 +20,11 @@ The dataset can be found at <a href="https://www.kaggle.com/tawsifurrahman/covid
 ## Model Performance
 
 ## Key highlights 
+                                                                       
+*	Developed Convolutional Neural Network based approach for binary classification of COVID-19 patients through X-rays
+
+* Trained 9 layered CNN model on 7000+ chest X-rays, achieved an accuracy of 96% and ROC- AUC score of 0.95 on test data
+
 
 
 
